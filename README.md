@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @test-web-taka
-- 👀 I’m interested Speckit Antigravity
+- 👀 I’m interested OpenCode
 
 <!---
 test-web-taka/test-web-taka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
